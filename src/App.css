@@ -1,0 +1,44 @@
+.parent{
+  display: flex;
+  justify-content: space-around;
+}
+.child{
+  width: 20%;
+  border: 1px solid#ddd;
+  padding: 1%;
+  margin: 1%;
+  box-shadow: 0px 8px 8px -8px #000;
+  text-align: center;
+}
+.child img{
+  width: 50%;
+  border-radius: 52%;
+}
+.link{
+  text-decoration: none;
+} 
+.btn{
+  text-decoration: none;
+  background: #1CEDEA;
+  color: #A105F4;
+  padding: 1%;
+  display: block;
+}
+.child2{
+  border: 1px solid#ddd;
+  width: 75%;
+  padding: 1%;
+  margin: 1%;
+  box-shadow: 0px 8px 8px -8px #000;
+}
+.skill{
+  margin: 0.5%;
+  padding:0.5%;
+  color: #000 ;
+  border-radius: 50%;
+  background: #1CEDEA;
+  border: 1px #F405ED;
+  box-shadow: 0px 8px 8px -8px #000000;
+  
+
+}

@@ -1,0 +1,88 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"Keerthi",
+                "email":"keerthi521@gmail.com",
+                "mobile":"+91 8796540123"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"90",
+                    "institute":"Kendriya Vidyalaya"
+                },
+                {
+                    "degree":"Intermediate-(M.P.C)",
+                    "percentage":"94",
+                    "institute":"Sri Chaitanya"
+                },
+                {
+                    "degree":"B-Tech (C.S.E)",
+                    "percentage":"85",
+                    "institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming Languages",
+                    "values":["C","C++","Python","Java"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS"]
+                },
+                {
+                    "type":"Frameworks & Libraries",
+                    "values":["ReactJS"]
+                },
+                {
+                    "type":"Operating Systems",
+                    "values":["Windows","Linux"]
+                }
+            ]
+        },
+        {
+            "basics":{
+                "name":"Bhavana",
+                "email":"bhavana@gmail.com",
+                "mobile":"+91 9876540321"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"95",
+                    "institute":"Naveena school"
+                },
+                {
+                    "degree":"Intermediate-(M.P.C)",
+                    "percentage":"98",
+                    "institute":"Lalitha college"
+                },
+                {
+                    "degree":"B-Tech (E.C.E)",
+                    "percentage":"90",
+                    "institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming Languages",
+                    "values":["C","C++","Python","Java"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS"]
+                },
+                {
+                    "type":"Frameworks & Libraries",
+                    "values":["ReactJS"]
+                },
+                {
+                    "type":"Operating Systems",
+                    "values":["Windows","Linux"]
+                }
+            ]
+        }
+    ]
+}
